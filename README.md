@@ -1,3 +1,6 @@
 # LLG-Berglaufcup
 Berglaufcup
-Siehe Readme_Ausschreibung.md
+Ausschreibung:
+
+Teilnehmen darf ....
+Wie wird gewertet ....

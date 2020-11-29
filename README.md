@@ -15,6 +15,7 @@
 ### 3. Gösselgrund
   - Gösselgrund (Klein Lengden) bis Kerstlingröder Feld
   - 2,8km  Länge 126 Höhenmeter
+  ![Gösselgrund_Uphill](https://user-images.githubusercontent.com/33402820/100553499-771bfd80-328e-11eb-89de-e7efc9e63824.png)
   
 ### 4. Billinghäuser Schlucht
   - Primatenzentrum bis Aussicht auf Billinghausen

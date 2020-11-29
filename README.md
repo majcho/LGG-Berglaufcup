@@ -4,7 +4,7 @@
 
 1. Schillerwiesen 
   - Schillerwiesen (Pavillion) bis Bismarkturm
-  - 00,00m Länge 000 Höhenmeter
+  - 4,4km Länge 188 Höhenmeter
 2. Trift it up
   - Jüdischer Friedhof bis höchster Punkt "Trift" kurz vor Kerstlingröder Feld
   - 3,6km Länge 191 Höhenmeter

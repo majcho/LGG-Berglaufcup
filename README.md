@@ -17,7 +17,7 @@
   - 2,8km  Länge 126 Höhenmeter
   ![Gösselgrund_Uphill](https://user-images.githubusercontent.com/33402820/100553499-771bfd80-328e-11eb-89de-e7efc9e63824.png)
   
-### 4. Billinghäuser Schlucht
+### 4. ![Billinghäuser Schlucht](https://github.com/majcho/LLG-Berglaufcup/tree/main/4.%20Billingsh%C3%A4user%20Schlucht)
   - Primatenzentrum bis Aussicht auf Billinghausen
   - 5,26km 184hm
   ![Billingshäuser_Schlucht](https://user-images.githubusercontent.com/33402820/100553525-a92d5f80-328e-11eb-8a22-2a53b0fb0c34.png)

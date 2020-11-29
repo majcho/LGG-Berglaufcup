@@ -2,10 +2,16 @@
 
 3 Bergläufe aus einer Auswahl von 8 sind in einem Monat zu bewältigen.
 
-1. Schillerwiesen (Pavillion) bis Bismarkturm
+1. Schillerwiesen 
+  - Schillerwiesen (Pavillion) bis Bismarkturm
   - 00,00m Länge 000 Höhenmeter
-2. Jüdischer Friedhof bis höchster Punkt "Trift
-  - 00,00m Länge 000 Höhenmeter
-3. Gösselgrund (Klein Lengden) bis Kerstlingröder Feld
-  - 00,00m Länge 000 Höhenmeter
-4. Burg Plesse
+2. Trift it up
+  - Jüdischer Friedhof bis höchster Punkt "Trift" kurz vor Kerstlingröder Feld
+  - 3,6km Länge 191 Höhenmeter
+3. Gösselgrund
+  - Gösselgrund (Klein Lengden) bis Kerstlingröder Feld
+  - 2,8km  Länge 126 Höhenmeter
+4. Billinghäuser Schlucht
+  - Primatenzentrum bis Aussicht auf Billinghausen
+  - 5,26km 184hm
+5. Burg Plesse

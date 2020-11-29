@@ -14,4 +14,13 @@
 4. Billinghäuser Schlucht
   - Primatenzentrum bis Aussicht auf Billinghausen
   - 5,26km 184hm
-5. Burg Plesse
+5. Westerberg
+  - Parkplatz an der L 569 entlang des Europäischen Wanderweges E6
+  - 2,3 km 108hm
+  - Sehr anspruchsvoller Trail
+ 6. Burg Plesse
+  - Details folgen
+ 7. Gleichen
+  - Details folgen
+ 8. Burg Lengden
+  - Details folgen

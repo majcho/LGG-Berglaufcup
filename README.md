@@ -10,6 +10,7 @@
 ### 2. Trift it up
   - Jüdischer Friedhof bis höchster Punkt "Trift" kurz vor Kerstlingröder Feld
   - 3,6km Länge 191 Höhenmeter
+  ![Trifft_it_up](https://user-images.githubusercontent.com/33402820/100553447-3d4af700-328e-11eb-86e5-4cbee92d1aed.PNG)
   
 ### 3. Gösselgrund
   - Gösselgrund (Klein Lengden) bis Kerstlingröder Feld

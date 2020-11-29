@@ -22,7 +22,7 @@
   - 5,26km 184hm
   ![Billingshäuser_Schlucht](https://user-images.githubusercontent.com/33402820/100553525-a92d5f80-328e-11eb-8a22-2a53b0fb0c34.png)
   
-### 5. Westerberg
+### 5. ![Westerberg](https://github.com/majcho/LLG-Berglaufcup/tree/main/5.%20Westerberg%20auf%20E6)
   - Parkplatz an der L 569 entlang des Europäischen Wanderweges E6
   - 2,3 km 108hm
   - Sehr anspruchsvoller Trail

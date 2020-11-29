@@ -20,6 +20,7 @@
 ### 4. Billinghäuser Schlucht
   - Primatenzentrum bis Aussicht auf Billinghausen
   - 5,26km 184hm
+  ![Billingshäuser_Schlucht](https://user-images.githubusercontent.com/33402820/100553525-a92d5f80-328e-11eb-8a22-2a53b0fb0c34.png)
   
 ### 5. Westerberg
   - Parkplatz an der L 569 entlang des Europäischen Wanderweges E6

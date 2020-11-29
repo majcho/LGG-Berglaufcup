@@ -26,6 +26,7 @@
   - Parkplatz an der L 569 entlang des Europäischen Wanderweges E6
   - 2,3 km 108hm
   - Sehr anspruchsvoller Trail
+  ![Westerberg](https://user-images.githubusercontent.com/33402820/100553564-cd893c00-328e-11eb-8ddd-6e3572cf321e.png)
   
  ### 6. Burg Plesse
   - Details folgen

@@ -3,7 +3,7 @@
 ## 3 Bergläufe aus einer Auswahl von 8 sind in einem Monat zu bewältigen.
 
 ### 1. ![Schillerwiesen](https://github.com/majcho/LLG-Berglaufcup/tree/main/1.%20Schillerwiesen) 
-  - Schillerwiesen (Pavillion) bis Bismarkturm
+  - Schillerwiesen (Pavillion) bis Wandertafel Kerstlingröder Feld
   - 4,4km Länge 188 Höhenmeter
   ![Schillerwiesen](https://user-images.githubusercontent.com/33402820/100553359-ee04c680-328d-11eb-9ab6-7a853a0654b0.png)
   

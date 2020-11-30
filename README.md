@@ -1,6 +1,6 @@
 # LGG-Berglaufcup
 
-## 3 Bergläufe aus einer Auswahl von 8 sind in einem Monat zu bewältigen.
+## 2 Bergläufe aus einer Auswahl von 8 sind in einem Monat zu bewältigen.
 
 ### 1. ![Schillerwiesen](https://github.com/majcho/LLG-Berglaufcup/tree/main/1.%20Schillerwiesen) 
   - Schillerwiesen (Pavillion) bis Wandertafel Kerstlingröder Feld

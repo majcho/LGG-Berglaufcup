@@ -1,5 +1,5 @@
 # LGG-Berglaufcup
-
+![Berglaufcup_logo](https://user-images.githubusercontent.com/33402820/101276428-f2a90d80-37ac-11eb-8fa5-4b2c73dedc51.jpg)
 ## 2 Bergläufe aus einer Auswahl von 8 sind in einem Monat zu bewältigen.
 
 ### 1. ![Schillerwiesen](https://github.com/majcho/LLG-Berglaufcup/tree/main/1.%20Schillerwiesen) 

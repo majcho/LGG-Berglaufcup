@@ -42,6 +42,6 @@
  ### 7. ![Bocksbühl 22.02.-28.02.](https://github.com/majcho/LGG-Berglaufcup/tree/main/7.%20Bocksb%C3%BChl)
   - Trafostation am Sporthaus Groß Schneen bis Bocksbühl Hütte
   - 2,90 km / 228,0 Höhenmeter mit Sonderwertung
-  - ![Strav Segment "LGG Berglaufcup Bocksbühl"](https://www.strava.com/segments/26658496)
+  - ![Strava Segment "LGG Berglaufcup Bocksbühl"](https://www.strava.com/segments/26658496)
   - PDF Streckenbeschreibung folgt
   ![Bocksbühl](https://raw.githubusercontent.com/majcho/LGG-Berglaufcup/main/7.%20Bocksb%C3%BChl/Bocksb%C3%BChl_Streckenverlauf.png)
